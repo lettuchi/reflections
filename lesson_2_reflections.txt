@@ -9,3 +9,6 @@ It allows you to add or delete files.
 How can you use the staging area to make sure you have one commit per logical change?
 you can move what you have been working on.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Wanting to make changes with absolutely no affect on the main project. 
+
