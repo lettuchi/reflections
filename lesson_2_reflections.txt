@@ -5,3 +5,7 @@ It creates a .git file you need to do it because other wise there is no way for 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It allows you to add or delete files.
+
+How can you use the staging area to make sure you have one commit per logical change?
+you can move what you have been working on.
+
