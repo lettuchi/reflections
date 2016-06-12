@@ -9,6 +9,10 @@ It allows you to add or delete files.
 How can you use the staging area to make sure you have one commit per logical change?
 you can move what you have been working on.
 
-What are some situations when branches would be helpful in keeping your history organized? How would branches help?
-Wanting to make changes with absolutely no affect on the main project. 
+How do the diagrams help you visualize the branch structure?
+They help you see how changes could be lost if you're not careful.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+You get the changes that the two share, but not things that have been deleted, only added
+What are the pros and cons of GitÅfs automatic merging vs. always doing merges manually?
+automerging can have errors, but it simplifies the procress when the relationships get complicated
