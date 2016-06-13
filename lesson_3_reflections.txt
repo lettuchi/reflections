@@ -4,3 +4,5 @@ Describe the differences between forks, clones, and branches. When would you use
 forks copy another repository that is on someone else git page and you can't directly clone. Clone works to take things from github that you can directly take, and branches work to make different versions or side-pieces within one project
 What is the benefit of having a copy of the last known state of the remote stored locally?
 You then know that you have the most recent version of the files that you are working on in case somoene else has edited them.
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+without- google docs, but for programming that makes little sense because its not the actual file. with git hub, it can be any file I want.
