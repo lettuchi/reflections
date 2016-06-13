@@ -6,3 +6,5 @@ What is the benefit of having a copy of the last known state of the remote store
 You then know that you have the most recent version of the files that you are working on in case somoene else has edited them.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 without- google docs, but for programming that makes little sense because its not the actual file. with git hub, it can be any file I want.
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+You would want to make changes to a separate branch when those things were either isolated from the master branch, or is the only way you can interact with the files. When doing it directly in master, there isn;t a buffer step to make sure things work and to get comments on them.
