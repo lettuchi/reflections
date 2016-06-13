@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+If I used more than one computer, or traveled a lot.
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forks copy another repository that is on someone else git page and you can't directly clone. Clone works to take things from github that you can directly take, and branches work to make different versions or side-pieces within one project
